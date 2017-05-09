@@ -1,0 +1,16 @@
+/* Red Studio Developers custom styling for the blog page
+
+/* Typography
+----------------------------------------------------------------------------- */
+.blog_nav{
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+.blog_logo{
+	
+	width:100%;
+	margin-top:-10px;
+
+}
